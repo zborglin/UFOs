@@ -16,8 +16,9 @@ The tool is configured to clearly display the information for interested users. 
 - static/data.js
 
 ## How to Use Data Filters
+### Unfiltered Data Table
 ![Unfiltered Data](https://github.com/zborglin/UFOs/blob/main/static/images/unfiltered.png)
-#
+### Filtered Data Table
 ![Filtered Data](https://github.com/zborglin/UFOs/blob/main/static/images/filtered.png)
 
 ## Results
